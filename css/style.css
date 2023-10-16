@@ -9,8 +9,7 @@ body {
 }
 
 main {
-    margin: auto;
-    max-width: 1024px;
+    justify-content: center;
 }
 
 header {
